@@ -1,0 +1,7 @@
+[31-Mar-2015 15:52:45 America/New_York] PHP Warning:  include(slide_foto.php): failed to open stream: No such file or directory in /home/k5180493/public_html/far@admNKT/module/mod_berita/edit_berita.php on line 2
+[31-Mar-2015 15:52:45 America/New_York] PHP Warning:  include(slide_foto.php): failed to open stream: No such file or directory in /home/k5180493/public_html/far@admNKT/module/mod_berita/edit_berita.php on line 2
+[31-Mar-2015 15:52:45 America/New_York] PHP Warning:  include(): Failed opening 'slide_foto.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/k5180493/public_html/far@admNKT/module/mod_berita/edit_berita.php on line 2
+[31-Mar-2015 15:52:45 America/New_York] PHP Warning:  session_start(): Cannot send session cookie - headers already sent in /home/k5180493/public_html/far@admNKT/module/mod_berita/aksi_editslide.php on line 2
+[31-Mar-2015 15:52:45 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in /home/k5180493/public_html/far@admNKT/module/mod_berita/aksi_editslide.php on line 2
+[31-Mar-2015 15:52:45 America/New_York] PHP Warning:  session_start(): Cannot send session cookie - headers already sent in /home/k5180493/public_html/far@admNKT/module/mod_berita/berita.php on line 2
+[31-Mar-2015 15:52:45 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in /home/k5180493/public_html/far@admNKT/module/mod_berita/berita.php on line 2

@@ -1,0 +1,15 @@
+
+#kotaka{
+    float: left;  
+    width: 100%;  /* width: 58px; */  
+    height: 129px;  
+    /* background: green; */;
+}
+
+.inputkotak{
+    float: left;  
+    width: 147px;  
+    /* width: 58px; */  
+    height: 3px;  
+    /* background: rgb(25, 28, 25); */;
+}

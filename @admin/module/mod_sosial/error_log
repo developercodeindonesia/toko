@@ -1,0 +1,9 @@
+[31-Mar-2015 15:52:45 America/New_York] PHP Warning:  session_start(): Cannot send session cookie - headers already sent in /home/k5180493/public_html/far@admNKT/module/mod_sosial/aksi_sosial.php on line 2
+[31-Mar-2015 15:52:45 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in /home/k5180493/public_html/far@admNKT/module/mod_sosial/aksi_sosial.php on line 2
+[31-Mar-2015 15:52:45 America/New_York] PHP Warning:  session_start(): Cannot send session cookie - headers already sent in /home/k5180493/public_html/far@admNKT/module/mod_sosial/sosial.php on line 2
+[31-Mar-2015 15:52:45 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in /home/k5180493/public_html/far@admNKT/module/mod_sosial/sosial.php on line 2
+[05-Oct-2015 09:06:49 America/New_York] PHP Fatal error:  Call to undefined function UploadSosmed() in /home/k5180493/public_html/@admNKT18wen/module/mod_sosial/aksi_sosial.php on line 31
+[05-Oct-2015 09:07:06 America/New_York] PHP Fatal error:  Call to undefined function UploadSosmed() in /home/k5180493/public_html/@admNKT18wen/module/mod_sosial/aksi_sosial.php on line 31
+[05-Oct-2015 09:08:06 America/New_York] PHP Fatal error:  Call to undefined function UploadSosmed() in /home/k5180493/public_html/@admNKT18wen/module/mod_sosial/aksi_sosial.php on line 31
+[05-Oct-2015 09:13:22 America/New_York] PHP Fatal error:  Call to undefined function UploadSosmed() in /home/k5180493/public_html/@admNKT18wen/module/mod_sosial/aksi_sosial.php on line 31
+[05-Oct-2015 09:13:27 America/New_York] PHP Fatal error:  Call to undefined function UploadSosmed() in /home/k5180493/public_html/@admNKT18wen/module/mod_sosial/aksi_sosial.php on line 31

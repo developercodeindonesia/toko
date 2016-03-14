@@ -1,0 +1,5 @@
+[31-Mar-2015 15:52:45 America/New_York] PHP Warning:  session_start(): Cannot send session cookie - headers already sent in /home/k5180493/public_html/far@admNKT/module/mod_contact/aksi_contact.php on line 2
+[31-Mar-2015 15:52:45 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in /home/k5180493/public_html/far@admNKT/module/mod_contact/aksi_contact.php on line 2
+[31-Mar-2015 15:52:45 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/k5180493/public_html/far@admNKT/module/mod_contact/contact.php on line 6
+[31-Mar-2015 15:52:45 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/k5180493/public_html/far@admNKT/module/mod_contact/contact.php on line 6
+[31-Mar-2015 15:52:45 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/k5180493/public_html/far@admNKT/module/mod_contact/contact.php on line 7

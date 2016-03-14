@@ -1,0 +1,7 @@
+[19-Dec-2014 07:13:26 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50540 Library:50621 in /home/furnisla/public_html/josys/koneksi.php on line 9
+[19-Dec-2014 07:13:44 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50540 Library:50621 in /home/furnisla/public_html/josys/koneksi.php on line 9
+[19-Dec-2014 07:14:02 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50540 Library:50621 in /home/furnisla/public_html/josys/koneksi.php on line 9
+[19-Dec-2014 07:14:16 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50540 Library:50621 in /home/furnisla/public_html/josys/koneksi.php on line 9
+[19-Dec-2014 10:48:05 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50540 Library:50621 in /home/furnisla/public_html/josys/koneksi.php on line 9
+[20-Dec-2014 07:53:38 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50540 Library:50621 in /home/furnisla/public_html/josys/koneksi.php on line 9
+[22-Dec-2014 08:56:07 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50540 Library:50621 in /home/furnisla/public_html/josys/koneksi.php on line 9

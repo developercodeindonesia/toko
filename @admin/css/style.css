@@ -1,0 +1,22 @@
+input,textarea,select{
+	font-family: Tahoma; 
+	font-size: 8pt;
+}
+
+input.butt{
+  cursor: pointer;
+  color:#666;
+  border-radius: 4px;
+}
+input:hover.butt{
+  background: #ddd;
+  color: #333;
+}
+input:active.butt{
+  background: rgba(55, 55, 55, 0.70);
+  color: #fff;
+}
+
+.clear{
+clear:both;
+}
